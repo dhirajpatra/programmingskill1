@@ -19,7 +19,7 @@ https://phpunit.de/getting-started.html
 
 
 ## How to run the application
--- Go to URL and paste this part /programmingskilltest1/ only after your web folder path [where you saved this application]
+-- Go to URL and paste this part /programmingskill1/ only after your web folder path [where you saved this application]
 -- All 3 test result will be displayed one below another. All results are very descriptive. If not run then kindly check the code. Code are well commented all the places. And used very primary php functions.
 -- If you want to run seperately then you have to create seperate function in index.php and need to call them from url or command line.
 
